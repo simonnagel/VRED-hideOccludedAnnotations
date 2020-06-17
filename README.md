@@ -1,5 +1,5 @@
 # VRED-hideOccludedAnnotations
-##Hides Annotations that are occluded by other other Geometries
+## Hides Annotations that are occluded by other other Geometries
 Use the script to hide annations that are occluded by other geometries.
 
 By default you always see annotations on top of your rendering. This script will hide annotations, if its position point cannot be seen by the camera.
